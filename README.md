@@ -1,4 +1,4 @@
-# Matplotlib Challenge - The Power of Plots
+# Drug Trial Analysis
 
 ## Background
 
