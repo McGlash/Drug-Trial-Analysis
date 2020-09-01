@@ -24,8 +24,12 @@ I generated tables, figures (using Matplotlib and Pandas) and a top-level summar
 
 * Using Matplotlib, generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
+![boxplot](Images/boxplot_of_tumor_volumes.png)
+
 * Selected a mouse that was treated with Capomulin and generate a line plot of time point versus tumor volume for that mouse.
 
 * Generated a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+
+![regression](Images/treatment_volume_vs_weight.png)
